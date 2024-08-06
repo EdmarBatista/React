@@ -21,7 +21,7 @@ export default () => {
                 <option value="3">Tab 3</option>
             </select>
 
-            {tab === 1 && <p>Tab 1</p>}
+            {tab === 1 && <p>Tab 1</p>}  {/* Quem renderiza um paragrafo pode renderizar um componente inteiro */}
             {tab === 2 && <p>Tab 2</p>}
             {tab === 3 && <p>Tab 3</p>}
 
