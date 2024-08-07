@@ -7,9 +7,5 @@ import App from './App';  // O nome do componente só veio agora, pois no App el
 ReactDOM.createRoot(document.querySelector('#root')).render( 
     <div>
         <App />
-   
-    
-  
-
     </div>
 )

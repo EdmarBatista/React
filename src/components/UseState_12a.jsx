@@ -1,7 +1,7 @@
 export default () => {
     return (
         <>
-          <h3>Componente A</h3>          
+            <h3>Componente A</h3>
         </>
     )
 }

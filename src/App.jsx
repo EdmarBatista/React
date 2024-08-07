@@ -12,6 +12,8 @@ import HookState09 from "./components/UseState_09"
 import HookState10 from "./components/UseState_10"
 import HookState11 from "./components/UseState_11"
 import HookState12 from "./components/UseState_12"
+import HookState13 from "./components/UseState_13"
+
 
 
 // Como é uma função anónima ela só vai receber o nome quando eu usar o import
@@ -32,7 +34,8 @@ export default () => {
             {/* <HookState09 /> */}
             {/* <HookState10 /> */}
             {/* <HookState11 /> */}
-            <HookState12 />
+            {/* <HookState12 /> */}
+            <HookState13 />
 
         </>
     )
